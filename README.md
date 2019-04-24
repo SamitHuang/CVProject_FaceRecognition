@@ -1,5 +1,6 @@
 This is the solution and implementation for project 2 face detection in COMP 5212.
 
+
 I have finished the following basic tasks:
 1) Use the training images to create positive and and negative training HoG features.
 2) Train a linear SVM classifier.
